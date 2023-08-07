@@ -19,7 +19,7 @@ export default function App() {
           target="_ blank"
           rel="noreferrer"
         >
-          open-soursed on GitHab
+          open-soursed on GitHub
         </a>
       </footer>
     </div>
